@@ -21,4 +21,11 @@ function forecast(address, callback){
 module.exports = forecast
 
 //How to use the forecast() function
-
+// forecast('Kathmandu', (error, kathforecast) => {
+//     if (error){
+//         console.log(error)
+//     }
+//     else {
+//         console.log(kathforecast);
+//     }   
+// })
