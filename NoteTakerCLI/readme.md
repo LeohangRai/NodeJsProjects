@@ -10,19 +10,19 @@ The console log styling is done using npm "chalk" module.
 run "npm install" to install the necessary dependencies.
 
 ## How to use the commands:
-1. add
-$ node app add --title='title of your note'  --body=='body of the note'
-Required arguments: title, body
+1. add <br>
+$ node app add --title='title of your note'  --body=='body of the note' <br>
+Required arguments: title, body <br> <br>
 
-2. remove
-$ node app remove --title='title of the note to be removed'
-Required arguments: title
+2. remove <br>
+$ node app remove --title='title of the note to be removed' <br>
+Required arguments: title <br><br>
 
-3. list
-$ node app list
-Required arguments: None
+3. list <br>
+$ node app list <br>
+Required arguments: None <br><br>
 
-4. read
-$ node app read --title='title of the note to read'
-Required arguments: None
+4. read <br>
+$ node app read --title='title of the note to read' <br>
+Required arguments: None <br><br>
 
