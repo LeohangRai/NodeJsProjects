@@ -11,7 +11,7 @@ run "npm install" to install the necessary dependencies.
 
 ## How to use the commands:
 1. add <br>
-$ node app add --title='title of your note'  --body=='body of the note' <br>
+$ node app add --title='title of your note'  --body='body of the note' <br>
 Required arguments: title, body <br> <br>
 
 2. remove <br>
